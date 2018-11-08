@@ -1,12 +1,12 @@
 {
   "message":"Products submitted succesfully!"
-  "products":[
-      "product1":{
+  products:[
+      product1:{
         "price": "1000.00",
         "quantity":1,
         "image_url":"https://placehold.it/230x230.jpg"
       },
-      "product2":{
+      product2:{
         "price": "2000.00",
         "quantity":1,
         "image_url":"https://placehold.it/230x230.jpg"
